@@ -1,0 +1,26 @@
+{
+  "name": "web-deeplink",
+  "version": "1.0.0",
+  "description": "An util for deep linking through browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioErdeljac/web-deeplink.git"
+  },
+  "keywords": [
+    "deeplink",
+    "browser",
+    "javascript",
+    "deep",
+    "link"
+  ],
+  "author": "Antonio Erdeljac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioErdeljac/web-deeplink/issues"
+  },
+  "homepage": "https://github.com/AntonioErdeljac/web-deeplink#readme"
+}
